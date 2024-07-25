@@ -37,7 +37,7 @@ We propose **Elastic Cache** through a **Cache Merging** based on the importance
 
 4. **Eval** 
 
-    Please refer to [EVAL.md](https://github.com/liuzuyan/ElasticCache/blob/master/EVAL.md) for the detailed instructions on evaluation, including generation, PPL evaluation, ROUGE evaluation, and latency test. 
+    Please refer to [EVAL.md](https://github.com/liuzuyan/ElasticCache/blob/main/EVAL.md) for the detailed instructions on evaluation, including generation, PPL evaluation, ROUGE evaluation, and latency test. 
 
 ## Quantitative and Qualitative Results
 
