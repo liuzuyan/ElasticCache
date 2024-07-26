@@ -3,7 +3,7 @@
 
 This repository contains PyTorch implementation for Elastic Cache (ECCV 2024).
 
-[Project Page](https://sites.google.com/view/elastic-cache) | [arXiv Paper](https://arxiv.org/)
+[Project Page](https://sites.google.com/view/elastic-cache) | [arXiv Paper](https://arxiv.org/pdf/2407.18121)
 
 ## Elastic Cache
 
@@ -55,7 +55,7 @@ If you found this repository useful, please consider citing:
 @article{liu2024elastic,
 title={Efficient Inference of Vision Instruction-Following Models with Elastic Cache},
 author={Liu, Zuyan and Liu, Benlin and Wang, Jiahui and Dong, Yuhao and Chen, Guangyi and Rao, Yongming and Krishna, Ranjay and Lu, Jiwen},
-journal={arXiv preprint arXiv:},
+journal={arXiv preprint arXiv:2407.18121},
 year={2024}
 }
 ```
